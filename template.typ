@@ -38,7 +38,7 @@
   align(top + left)[Student name: #author]
 
   if student_number != none {
-    align(top + left)[Student name: #student_number]
+    align(top + left)[Student number: #student_number]
   }
 
   align(center)[= #title]
